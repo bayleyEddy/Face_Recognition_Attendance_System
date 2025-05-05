@@ -1,2 +1,2 @@
 # Face_Recognition_Attendance_System
-A system that allows a user to create an account, their face will then be scanned to sign in and record their attendance.
+System uses python code to record the attendance for a created user. If the user is not created then they are denied entry and will be prompted to create an account. This account asks for basic information (name, address, email, etc.) and will take 10 pictures from various angles of a users face. Once a user's account is created then their face will be scanned and they will be granted access into the system to view their recorded attendance (which is recorded once a user successully signs in). The user pictures are stored securely using encryption and files are automatically created based on need.
